@@ -48,8 +48,8 @@ lang = {
         "type-text": "입력해라냥"
     },
     "en-US": {
-        "nothing-Title": "There is nothing inside",
-        "nothing-Description": "Let's chat",
+        "nothing-Title": "There is just some dust",
+        "nothing-Description": "Let's start chatting",
         "room-Title": "where do you want to go",
         "room-Placeholder": "enter the code",
         "room-button": "go",
