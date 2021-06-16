@@ -2,10 +2,10 @@ lang = {
     "ko-KR": {
         "nothing-Title": "아무것도 없네요.",
         "nothing-Description": "채팅을 시작해볼까요",
-        "room-Title": "어디로 가볼까요?",
-        "room-Placeholder": "방 코드 입력",
+        "room-Title": "채팅방을 만들어보세요.",
+        "room-Placeholder": "방 제목 입력",
         "room-button": "확인",
-        "room-Error-Short": "방 코드는 4자 이상이여야 합니다.",
+        "room-Error-Short": "방 제목은 4자 이상이여야 합니다.",
         "nick-Title": "어떻게 부르면 될까요?",
         "nick-Placeholder": "닉네임 입력",
         "nick-button": "확인",
@@ -21,15 +21,23 @@ lang = {
         "theme-except": "현재 dark, light 테마만 지원합니다.<br>사용법 : /theme (light / dark)",
         "e1": "이런, 당신의 눈을 보호해드리죠.",
         "unknown-command": "알 수 없는 명령어 입니다.",
-        "type-text": "텍스트를 입력하세요"
+        "type-text": "텍스트를 입력하세요",
+        "env-setting": "사용자 설정",
+        "block-list": "차단 이용자",
+        "info": "정보",
+        "nick-setting": "닉네임 설정",
+        "alarm-setting": "알림 설정",
+        "lang-setting": "언어 설정",
+        "theme-setting": "테마 설정",
+        "developer-setting": "전문가 설정"
     },
     "ko-Nyan": {
         "nothing-Title": "아무것도 없다냥.",
         "nothing-Description": "채팅을 시작해봐라냥.",
         "room-Title": "어디로 가볼거냥?",
-        "room-Placeholder": "방 코드 입력",
+        "room-Placeholder": "방 제목 입력",
         "room-button": "확인",
-        "room-Error-Short": "방 코드는 4자 이상이여야 한다냥.",
+        "room-Error-Short": "방 제목은 4자 이상이여야 한다냥.",
         "nick-Title": "어떻게 부르면 되냥?",
         "nick-Placeholder": "닉네임 입력",
         "nick-button": "확인",
@@ -45,15 +53,18 @@ lang = {
         "theme-except": "현재 dark, light 테마만 지원한다냥.<br>사용법 : /theme (light / dark)",
         "e1": "이런, 눈을 보호해야겠다냥.",
         "unknown-command": "알 수 없는 명령어다냥.",
-        "type-text": "입력해라냥"
+        "type-text": "입력해라냥",
+        "env-setting": "사용자 설정",
+        "block-list": "차단 이용자",
+        "info": "정보"
     },
     "en-US": {
         "nothing-Title": "There is just some dust",
         "nothing-Description": "Let's start chatting",
         "room-Title": "where do you want to go",
-        "room-Placeholder": "enter the code",
+        "room-Placeholder": "enter the room name",
         "room-button": "go",
-        "room-Error-Short": "Room code must be at least 4 characters",
+        "room-Error-Short": "Room name must be at least 4 characters",
         "nick-Title": "Please enter your nickname",
         "nick-Placeholder": "enter nickname",
         "nick-button": "ok",
@@ -69,6 +80,9 @@ lang = {
         "theme-except": "We only support Light and Dark.<br>Useage : /theme (light / dark)",
         "e1": "oh shit, i can keep ur eyes from white",
         "unknown-command": "Unknown command.",
-        "type-text": "Input ur text"
+        "type-text": "Input text",
+        "env-setting": "Settings",
+        "block-list": "Blocked List",
+        "info": "Information"
 }
 }
