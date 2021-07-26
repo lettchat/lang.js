@@ -1,8 +1,8 @@
 lang = {
     "ko-KR": {
-        "nothing-Title": "아무것도 없네요.",
-        "nothing-Description": "채팅을 시작해볼까요",
-        "room-Title": "채팅방을 만들어보세요.",
+        "nothing-Title": "아무것도 없어요",
+        "nothing-Description": "(아, 옆에 먼지는 있어요)",
+        "room-Title": "채팅방 만들기",
         "room-Placeholder": "방 제목 입력",
         "room-button": "확인",
         "room-Error-Short": "방 제목은 4자 이상이여야 합니다.",
@@ -26,37 +26,13 @@ lang = {
         "block-list": "차단 이용자",
         "info": "정보",
         "nick-setting": "닉네임 설정",
-        "alarm-setting": "알림 설정",
+        "notification-setting": "알림 설정",
         "lang-setting": "언어 설정",
         "theme-setting": "테마 설정",
-        "developer-setting": "전문가 설정"
-    },
-    "ko-Nyan": {
-        "nothing-Title": "아무것도 없다냥.",
-        "nothing-Description": "채팅을 시작해봐라냥.",
-        "room-Title": "어디로 가볼거냥?",
-        "room-Placeholder": "방 제목 입력",
-        "room-button": "확인",
-        "room-Error-Short": "방 제목은 4자 이상이여야 한다냥.",
-        "nick-Title": "어떻게 부르면 되냥?",
-        "nick-Placeholder": "닉네임 입력",
-        "nick-button": "확인",
-        "changeRoom-notice": "&room 방으로 변경되었다냥!",
-        "block": "차단",
-        "unblock": "차단해제",
-        "report": "신고",
-        "disconnect": "Lett 서버와의 연결이 끊겼다냥",
-        "urlconfirm": "&url\n페이지로 이동할거냥?",
-        "discordconfirm": "공식 디스코드 서버로 이동한다냥!",
-        "clearconfirm":"기록된 모든 채팅을 삭제할거다냥.\n삭제된 채팅은 복구할 수 없는거 확인했냥?",
-        "hidden": "당신만 볼 수 있다냥",
-        "theme-except": "현재 dark, light 테마만 지원한다냥.<br>사용법 : /theme (light / dark)",
-        "e1": "이런, 눈을 보호해야겠다냥.",
-        "unknown-command": "알 수 없는 명령어다냥.",
-        "type-text": "입력해라냥",
-        "env-setting": "사용자 설정",
-        "block-list": "차단 이용자",
-        "info": "정보"
+        "developer-setting": "전문가 설정",
+        "create": "생성",
+        "self-input": "직접 입력",
+        "recommend-input": "권장 입력"
     },
     "en-US": {
         "nothing-Title": "There is just some dust",
@@ -83,6 +59,14 @@ lang = {
         "type-text": "Input text",
         "env-setting": "Settings",
         "block-list": "Blocked List",
-        "info": "Information"
-}
+        "info": "Information",
+        "nick-setting": "Change nickname",
+        "notification-setting": "Notification settings",
+        "lang-setting": "Language settings",
+        "theme-setting": "Theme settings",
+        "developer-setting": "Developer settings",
+        "create": "Create",
+        "self-input": "Direct input",
+        "recommend-input": "Recommended input"
+    }
 }
